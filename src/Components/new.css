@@ -1,0 +1,285 @@
+
+/* ++++++++++++++++++ Main form css ++++++++++++++++++++ */
+.main-form input {
+	display: block;
+	margin-top: 5px;
+	height: 40px;
+	width: 100%;
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid #80808091;
+    font-size: 15px;
+}
+.main-form {
+	max-width: 500px;
+	display: block;
+	margin: auto;
+	/* border: 1px solid; */
+	padding: 50px 20px;
+	box-shadow: 0px 0px 15px #8080808f;
+	border-radius: 10px;
+}
+.main-form button.update_btn {
+	height: 40px;
+	width: 150px;
+	font-size: 16px;
+	margin: auto;
+	background: green;
+	border-radius: 6px;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	display: block;
+}
+.main-form label {
+	font-size: 18px;
+    font-family: sans-serif;
+}
+a.download_csv_btn {
+	height: 40px;
+	width: 150px;
+	font-size: 16px;
+	/* margin: auto; */
+	background: green;
+	border-radius: 6px;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	display: flex;
+	margin-top: 20px;
+	align-items: center;
+	justify-content: center;
+	text-decoration: none;
+}
+/* +++++++++++++++++++  main section form css  +++++++++++++++++++ */
+.main-section input {
+	display: block;
+	margin-top: 5px;
+	height: 40px;
+	width: 100%;
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid #80808091;
+    font-size: 15px;
+}
+.main-section {
+	max-width: 500px;
+	display: block;
+	margin: auto;
+	/* border: 1px solid; */
+	padding: 50px 20px;
+	box-shadow: 0px 0px 15px #8080808f;
+	border-radius: 10px;
+}
+.main-section button.download_btn {
+	height: 40px;
+	width: 150px;
+	font-size: 16px;
+	margin: auto;
+	background: green;
+	border-radius: 6px;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	display: block;
+    margin-top: 20px
+}
+.main-section label {
+	font-size: 18px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+.main-form label,.main-section label {
+    font-family: sans-serif;
+}
+.main-section input:hover,.main-form input:hover {
+	background-color: #bcb7b72b;
+}
+.main-section input:focus,.main-form input:focus{
+    outline:none;
+    background-color: #bcb7b72b;
+}
+.main-section input,.main-form input{
+	font-family: sans-serif;
+}
+.main-form button.update_btn,a.download_csv_btn,.main-section button.download_btn{
+    font-family: sans-serif;
+}
+.main-section,.main-form {
+	border: 1px solid #00000045;
+}
+
+
+
+
+.previous-events,
+.quennsland-section,
+.toi-outersection {
+	max-width: 1200px;
+	margin: 25px auto 25px auto;
+}
+.form-newsletter .tnp-subscription-minimal form {
+	display: flex;
+	justify-content: center;
+}
+
+.banner-section{
+background-image: linear-gradient(to bottom,#00000057,#00000057),url("https://kirtanajudiya.com/biship/wp-content/uploads/2023/04/brisriv_new.jpg") !important;
+height: 509px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.newsletter-form {
+	margin-top: 30px;
+}
+.form-newsletter .tnp-subscription-minimal form .tnp-email {
+	font-size: 14px;
+	border-color: #ddd;
+	background-color: #f4f4f4;
+	height: 50px;
+}
+.form-newsletter .tnp-subscription-minimal form .tnp-submit {
+	background: black;
+	color: #fff;
+	font-size: 14px;
+	height: 50px;
+}
+/* .textwidget button a {
+	text-decoration: none;
+}
+.textwidget button {
+	padding: 10px 10px 11px 10px;
+	margin: 3px;
+}
+#custom_html-2 {
+	display: flex;
+	justify-content: center;
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+} */
+
+
+
+#menu-1-01f6ed7 {
+	display: flex;
+	justify-content: center;
+	background-color: #000;
+}
+.hfe-nav-menu__align-justify .hfe-nav-menu__layout-horizontal .hfe-nav-menu#menu-1-01f6ed7 li.menu-item {
+	flex-grow: 0;
+}
+#primary {
+	margin-top: -24px;
+}
+
+
+
+#primary {
+	display: flex;
+}
+.sidebar {
+	width: 200px;
+	padding-top: 64px;
+}
+#post-828 {
+	width: calc(100% - 200px);
+}
+.textwidget.custom-html-widget {
+	display: flex;
+	flex-direction: column;
+}
+.banner-section {
+	max-width: 100%;
+}
+.textwidget.custom-html-widget button {
+	width: 150px;
+	margin-bottom: 10px;
+}
+.textwidget.custom-html-widget span {
+	text-align: center;
+}
+#media_image-2 {
+	text-align: center;
+}
+
+#primary {
+	max-width: 1140px;
+	margin: auto;
+	display: flex;
+}
+#colophon {
+	max-width: 1140px;
+	margin: auto;
+}
+
+
+
+
+/* ++++++++++++++++++++++++++++++++++ */
+.page-header {
+	padding-bottom: 9px;
+	margin: 40px 0 20px;
+	margin-left: 0px;
+	border-bottom: 1px solid #eee;
+}
+.sf_admin_form label {
+	display: inline-block;
+	max-width: 100%;
+	margin-bottom: 5px;
+	font-weight: 700;
+}
+.sf_admin_form .form-control {
+	display: block;
+	width: 100%;
+	height: 34px;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #555;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+	box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+	-webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+	-o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+	transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+.sf_admin_form .table.table-bordered.table-hover.table-striped {
+	border: 1px solid #ddd;
+}
+body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+}
+.sf_admin_form .table > thead > tr > th, .sf_admin_form .table > tbody > tr > th, .sf_admin_form .table > tfoot > tr > th, .sf_admin_form .table > thead > tr > td, .sf_admin_form .table > tbody > tr > td, .sf_admin_form .table > tfoot > tr > td {
+	padding: 8px;
+	line-height: 1.42857143;
+	vertical-align: top;
+	border: 1px solid #ddd;
+}
+.sf_admin_form table {
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+.sf_admin_form .btn.btn-sm.btn-primary {
+	padding: 5px 10px;
+	font-size: 12px;
+	line-height: 1.5;
+	border-radius: 3px;
+	color: #fff;
+	background-color: #428bca;
+	border-color: #357ebd;
+	border: 1px solid transparent;
+}

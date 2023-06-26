@@ -1,0 +1,46 @@
+.mainlogo {
+    max-width: 200px;
+    object-fit: contain;
+}
+
+.login-main-btn {
+    width: 107px;
+    height: 45px;
+    background: linear-gradient(180deg, #03ADB8 0%, #2E77A7 53.65%, #413692 100%);
+    border-radius: 23px 23px 0px 23px;
+    border: none;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.nav-link {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0.03em;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+#navbarScroll {
+	max-width: max-content;
+}
+.navbar-nav {
+	display: flex;
+	gap: 10px 30px;
+}
+.banner-section {
+	background-image: url("../images/banner-back-img.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+@media (max-width:991px) {
+    #navbarScroll {
+        max-width: max-content;
+        /* display: block; */
+        min-width: 100%;
+    }
+}

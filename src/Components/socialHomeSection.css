@@ -1,0 +1,14 @@
+.imageDiv {
+	width: 240.874px;
+	height: 100.576px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.socialIcons {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+    margin-bottom: 90px;
+    gap: 20px 5px;
+}
